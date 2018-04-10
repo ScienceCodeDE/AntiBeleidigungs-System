@@ -1,0 +1,5 @@
+name: AntiBeleidigungsSystem
+author: ScienceCode
+version: 1.0
+main: de.gomme.antibeleidigungssystem.main.Main
+description: Ein AntiBeleidigungs-System von ScienceCode
