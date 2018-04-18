@@ -24,7 +24,7 @@ public class Main extends Plugin implements Listener {
 	// Plugin by ScienceCode            //
 	// Last Update on 06.04.2018        //
 	// Plugin under GNU-License         //
-	// Copyright (C) 2018 ScienceCode   //
+	// Copyright (C) 2017-2018 ScienceCode   //
 	// ################################ //
 	
 	public String Prefix = "§cSystem §8| §7";
